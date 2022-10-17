@@ -1,8 +1,5 @@
 ## Laravel-Ajax-CRUD-With-Image-And-Validation
 
-![alt text](https://github.com/[mdjovayer]/[Laravel-Ajax-CRUD-With-Image-And-Validation]/blob/[main]/demo.png?raw=true)
-
-
 ## Windows users:
 ### Download wamp: http://www.wampserver.com/en/
 Download and extract cmder mini: https://github.com/cmderdev/cmder/releases/download/v1.1.4.1/cmder_mini.zip
